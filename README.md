@@ -18,13 +18,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/b8c1dca6-9d8b-4dd5-bd68-6d04469f3218)
+- IIS & Management Console
+- PHP and Rewrite Module
+- MySQL
+- HeidiSQL
+- osTicket
 
 <h2>Installation Steps</h2>
 
