@@ -114,7 +114,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
   Follow these steps one by one after we are done downloading MYSQL. We need to create our new password. In this case for our training VM
-  make up a password and write it down if need be, after that is done hit the excute button and let it run. But don't make it a dail habit in real life.
+  make up a password and write it down if need be, after that is done hit the excute button and let it run. But don't make it a daily habit in real life.
 
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/8d386e6c-c035-4d06-8982-00a170cac301)
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/d46ed7d2-8f3e-4516-bd11-9e30b59063c5)
