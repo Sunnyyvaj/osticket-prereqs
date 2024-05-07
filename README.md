@@ -217,6 +217,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   called "osTicket".
   
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/1b9d85be-12b8-4ebc-944e-e5c6cc5aa492)
+
+  
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/0e4623e5-663e-49db-a95d-85f7873acbfa)
+
+
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/0a52763f-df0c-4763-a746-0870a2237bf1)
+
+
+  
+
+
   
 
 
