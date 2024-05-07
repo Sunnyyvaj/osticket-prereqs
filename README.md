@@ -134,11 +134,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/ecf1efd2-2461-4834-a5a6-05ac9bd86317)
   
   Download Osticket
-
+  
+  Step 1
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/8343fa30-a453-436b-930a-3e6bace3d6b7)
+
+  Step 2
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/99c124bd-5c9d-40e6-8a52-1574be47de1b)
+
+  Step 3
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/2f1f3a34-e50b-4256-8f53-b0e23f0b0854)
+
+  Step 4
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/95eb8a05-1251-4a65-abbe-62476b9bd378)
+
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/cc99ec11-28e2-49cd-8fa9-de6663c44bdc)
 
 
