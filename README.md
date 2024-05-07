@@ -240,7 +240,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 
 
-
+  Now we are all done installing osTicket. Hopefully this guide helps you along. If anything ask me any questions and I'll do my best to help out.
   
 
 
@@ -260,14 +260,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img/>
 </p>
 <p>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img/>
 </p>
 <p>
 
