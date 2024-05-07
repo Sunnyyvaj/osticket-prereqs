@@ -212,6 +212,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/7f6e6e43-7957-4584-a717-77cb4d60178f)
 
 
+  The next step will be to download HeidiSQL. Once it's done downloading hit the finished button and HeidiSQL will launch.
+  
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/1b9d85be-12b8-4ebc-944e-e5c6cc5aa492)
+  
 
 
 
