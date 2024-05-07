@@ -213,6 +213,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
   The next step will be to download HeidiSQL. Once it's done downloading hit the finished button and HeidiSQL will launch.
+  Once it's launch, we will create a new session. We will enter our username and password we got when we set up MySQL server. Once that is done we can connect to the session and create a database
+  called "osTicket".
   
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/1b9d85be-12b8-4ebc-944e-e5c6cc5aa492)
   
