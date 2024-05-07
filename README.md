@@ -166,7 +166,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   Once you press the button browse *:80(http) you should see a tab open that has the picture posted below
 ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/578a6390-6d16-47d1-a3c2-bc5dad0c52f7)
 
-  Now we have to enable some extensions. So we can go back to IIS>Default>osTicket, from there we double click PHP Manager then we click enable or disable extension. We have to enable: php_imap.dll, php_intl.dll, and php_opcache.dll. After all of that is enable we can go ahead and refresh the osTicket site in the browser.
+  Now we have to enable some extensions. So we can go back to IIS>Default>osTicket, from there we double click PHP Manager then we click enable or disable extension. We have to enable: php_imap.dll, php_intl.dll, and php_opcache.dll. After all of that is enable we can go ahead and refresh the osTicket site in the browser. And you'll see that some of the X's that are highlighted in red are now green.
 
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/8fd3d694-85bf-4a8a-b45a-2f056ee80ae5)
 
@@ -174,6 +174,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/9c1f0276-b525-440c-98a7-4a724db51734)
 
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/e5be847a-036a-4cb4-b7a0-2c3be206109d)
 
 
 
