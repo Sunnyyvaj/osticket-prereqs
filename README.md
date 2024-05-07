@@ -176,6 +176,42 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/e5be847a-036a-4cb4-b7a0-2c3be206109d)
 
+  In the image below. We need to change the name os-sampleconfig in the wwwroot folder to os-config. So I have already gone and done that, so that's why it's not shown in the image below. I hope it makes sense
+  even though the word os-config is not highlighted.
+  
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/d5ca5d8e-6efd-435b-89b8-baebc45f24d2)
+
+  In this next step we are going assign permissions under the osticket-config.php. We are going to disable inheritance and remove all. Next we are going to add in new permissions for everyone and apply it for
+  all
+
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/12b17b5a-1686-4415-89e8-ab9956cf1c29)
+
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/364a5890-031a-4873-abad-065e6a45162b)
+
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/20b639c0-83e8-4cb6-bfa2-d35f3cdf6d28)
+
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/045317b0-0bc0-41ea-bf89-d1c930d412c6)
+
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/b5e74677-1c5f-4f00-b82d-734b63f73ed1)
+
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/d4b944dd-8c98-4b8b-aa33-bb66da342a8d)
+
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/5e5796a2-b6e7-4ac5-8f6b-54695c13ce1c)
+
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/75d65761-d0a6-4afd-af6b-19738ed779f9)
+
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/6a7ae8f1-7ae9-4a39-8131-139c53d07b4a)
+  
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/f0599ffe-45de-4eee-a8cb-ea34448ced6b)
+
+  Following the pictures posted above should give you a clear indicator on how to assing permissions for everyone.
+
+
+
+
+
+
+
 
 
 
