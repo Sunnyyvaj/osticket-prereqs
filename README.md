@@ -233,7 +233,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/b2947beb-b7bc-40c4-a0eb-730e771ac9fe)
 
-
+  So there are a few steps left to do, nothing major but minor clean up stuff. 
+  We can go ahead and delete the setup folder in the osTicket folder under the wwwroot folder.
+  After that we can also set the permissions to "read" only.
+  It may sound confusing without pictures, I forgot to include the pictures. Again I am sorry.
   
 
 
