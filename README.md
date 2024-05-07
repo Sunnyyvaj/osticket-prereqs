@@ -163,6 +163,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   From here we can click sites->default web site->browse *:80(http)
 
+  Once you press the button browse *:80(http) you should see a tab open that has the picture posted below
+![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/578a6390-6d16-47d1-a3c2-bc5dad0c52f7)
 
 
 
