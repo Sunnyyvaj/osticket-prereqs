@@ -206,6 +206,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   Following the pictures posted above should give you a clear indicator on how to assing permissions for everyone.
 
+  
+  In this step, we are going to set-up os-Ticket in the browser. So we can just fill out everything that is listed in the browser.
+  
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/7f6e6e43-7957-4584-a717-77cb4d60178f)
 
 
 
