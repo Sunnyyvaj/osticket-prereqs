@@ -227,6 +227,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/494eedb9-afdf-43dc-b27f-d5576b01ab14)
 
+  Once we have created the database, we can go back to the osTicket browser and fill out the rest of the forms.
+  Look over everything again and make sure it's all good to go. Then we can click the button "Install Now!" If everything is correct the image posted below should show up and now we can proceed to the next step.
+
+  
+  ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/b2947beb-b7bc-40c4-a0eb-730e771ac9fe)
+
+
+  
+
 
 
   
