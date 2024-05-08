@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -30,17 +30,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/9ae32d84-90c7-4a06-8ec0-92e40e480d58)
-  Create a Resource Group on azure.
+
+The first thing we do is create a Resource Group on azure.
 
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/b75db335-15eb-4b2d-b1d1-541087094126)
+  
   From this picture. Go ahead and type in RG-Osticket for resource group name. You can set the region to anything.
   After doing that, hit the review and create button and the resource group will begin to start downloading.
   
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/a9a27c1f-3126-4d60-ab4f-6dc2e8cc3a23)
+  
   Now we can also create our VM (Virtual Machine). Make sure to check the box under the word LICENSEING before moving onto the next step and creating and reviwing the VM. 
-  Also don't forget to write down username and password that was created while creating the VM.
+  Also don't forget to write down your username and password that was created while creating the VM. 
+  
+  (Side note: Don't make a habit of writing down the username and password.)
 
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/6f08222d-2221-4a99-8edc-6927aae3ebe2)
+  
   Once the Resource Group and VM are created. We can now go to the VM tab and copy the public IP address.
 
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/50353da9-3790-44e5-acb6-b087992a6144)
@@ -53,6 +59,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   After all of this is done. Your VM will load up and start and now we can start installing Osticket on our VM.
 
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/a5f2d17a-b6a7-4759-b465-a750f87ca0b7)
+  
   In your VM right click the windows icon and press the "run" tab. From there type in "control" and it will bring you to the screen shown in the picture above. 
 
   ![image](https://github.com/Sunnyyvaj/osticket-prereqs/assets/165757391/9dd67f9b-c828-4022-b026-51083149410b)
